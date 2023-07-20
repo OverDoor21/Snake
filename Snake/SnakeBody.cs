@@ -9,7 +9,7 @@ namespace Snake
 {
     public class SnakeBody
     {
-        public UIElement uIElement { get; set; }
+        public UIElement UiElement { get; set; }
         public Point Position { get; set; }
         public bool IsHead { get; set; }
     }
